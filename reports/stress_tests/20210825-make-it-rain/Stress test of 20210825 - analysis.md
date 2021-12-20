@@ -40,7 +40,7 @@ The `76` transactions with end status `completed` and `cancelled` could have bee
 | Transactions negotiated              | 5200      | 5375      | 5400      | 5400      | 5358      | 5200      | 31933         |
 | Submit start time (UTC) - 2021-08-25 | 15:43:37  | 15:43:22  | 15:44:10  | 15:41:49  | 15:50:55  | 15:50:55  | 15:45:48      |
 | Submit end time (UTC) - 2021-08-25   | 17:54:01  | 17:55:54  | 17:33:56  | 17:47:57  | 18:07:40  | 17:57:46  | 17:52:52      |
-| Sumbit time (min.)                   | 130       | 133       | 110       | 126       | 137       | 122       | 126           |
+| Submit time (min.)                   | 130       | 133       | 110       | 126       | 137       | 122       | 126           |
 | Highest single txn send count        | 2         | 1         | 1         | 4         | 15        | 3         | 4             |
 | End status: Pending                  | 800       | 625       | 600       | 600       | 642       | 800       | 4067          |
 | End status: Completed                | 0         | 0         | 76        | 0         | 0         | 0         | 76            |

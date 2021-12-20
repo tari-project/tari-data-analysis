@@ -38,7 +38,7 @@ The *highest single txn send count* indicates that a lot of additional network t
 | Transactions negotiated              | 6000      | 6000      | 6000      | 6000      | 6000      | 6000      | 36000         |
 | Submit start time (UTC) - 2021-07-15 | 16:14:14  | 16:14:33  | 16:14:50  | 16:15:00  | 16:15:00  | 16:15:00  | 16:14:46      |
 | Submit end time (UTC) - 2021-07-15   | 17:55:12  | 17:30:18  | 17:24:45  | 17:43:04  | 17:43:04  | 17:43:04  | 17:39:55      |
-| Sumbit time (min.)                   | 101       | 76        | 70        | 88        | 88        | 88        | 85            |
+| Submit time (min.)                   | 101       | 76        | 70        | 88        | 88        | 88        | 85            |
 | Highest single txn send count        | 79        | 54        | 54        | 68        | 68        | 68        | 65            |
 | End status: Pending                  | 0         | 0         | 0         | 0         | 0         | 0         | 0             |
 | End status: Completed                | 0         | 0         | 0         | 0         | 0         | 0         | 0             |

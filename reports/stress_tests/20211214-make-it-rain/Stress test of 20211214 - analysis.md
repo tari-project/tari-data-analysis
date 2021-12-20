@@ -35,7 +35,7 @@ The average system-level performance normalized to percentages is shown below. B
 | Transactions negotiated              | 5893      | 6000      | 6000      | 6000      | 6000      | 6000      | 35893         |
 | Submit start time (UTC) - 2021-12-14 | 11:00:36  | 11:03:27  | 11:03:06  | 11:00:29  | 11:00:11  | 11:00:11  | 11:01:20      |
 | Submit end time (UTC) - 2021-12-14   | 12:49:19  | 12:46:01  | 13:22:27  | 12:03:07  | 12:01:10  | 12:01:09  | 12:30:32      |
-| Sumbit time (min.)                   | 109       | 103       | 139       | 63        | 61        | 61        | 89            |
+| Submit time (min.)                   | 109       | 103       | 139       | 63        | 61        | 61        | 89            |
 | Highest single txn send count        | 3         | 4         | 6         | 3         | 3         | 3         | 4             |
 | End status: Pending                  | 6         | 0         | 0         | 0         | 0         | 0         | 6             |
 | End status: Completed                | 0         | 0         | 0         | 0         | 0         | 0         | 0             |
